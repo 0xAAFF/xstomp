@@ -1,0 +1,10 @@
+#编译产生的目录
+.vs*
+Release*
+Debug*
+history*
+log*
+win kit*
+packages*
+
+
