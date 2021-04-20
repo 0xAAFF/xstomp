@@ -1,0 +1,31 @@
+E:\Work\CodeDevelop\Sdp Service\ConsoleVueServer\bin\Debug\ConsoleVueServer.exe
+E:\Work\CodeDevelop\Sdp Service\ConsoleVueServer\bin\Debug\ConsoleVueServer.pdb
+E:\Work\CodeDevelop\Sdp Service\ConsoleVueServer\bin\Debug\websocket-sharp.dll
+E:\Work\CodeDevelop\Sdp Service\ConsoleVueServer\bin\Debug\websocket-sharp.pdb
+E:\Work\CodeDevelop\Sdp Service\ConsoleVueServer\obj\Debug\ConsoleVueServer.csprojAssemblyReference.cache
+E:\Work\CodeDevelop\Sdp Service\ConsoleVueServer\obj\Debug\ConsoleVueServer.csproj.CoreCompileInputs.cache
+E:\Work\CodeDevelop\Sdp Service\ConsoleVueServer\obj\Debug\ConsoleVueServer.csproj.CopyComplete
+E:\Work\CodeDevelop\Sdp Service\ConsoleVueServer\obj\Debug\ConsoleVueServer.exe
+E:\Work\CodeDevelop\Sdp Service\ConsoleVueServer\obj\Debug\ConsoleVueServer.pdb
+E:\Work\CodeDevelop\Sdp Service\ConsoleVueServer\bin\Debug\XStomp.dll
+E:\Work\CodeDevelop\Sdp Service\ConsoleVueServer\bin\Debug\XStomp.pdb
+E:\Work\CodeDevelop\.NetProject\Sdp Service\ConsoleVueServer\bin\Debug\ConsoleVueServer.exe
+E:\Work\CodeDevelop\.NetProject\Sdp Service\ConsoleVueServer\bin\Debug\ConsoleVueServer.pdb
+E:\Work\CodeDevelop\.NetProject\Sdp Service\ConsoleVueServer\bin\Debug\websocket-sharp.dll
+E:\Work\CodeDevelop\.NetProject\Sdp Service\ConsoleVueServer\bin\Debug\XStomp.dll
+E:\Work\CodeDevelop\.NetProject\Sdp Service\ConsoleVueServer\bin\Debug\XStomp.pdb
+E:\Work\CodeDevelop\.NetProject\Sdp Service\ConsoleVueServer\bin\Debug\websocket-sharp.pdb
+E:\Work\CodeDevelop\.NetProject\Sdp Service\ConsoleVueServer\obj\Debug\ConsoleVueServer.csprojAssemblyReference.cache
+E:\Work\CodeDevelop\.NetProject\Sdp Service\ConsoleVueServer\obj\Debug\ConsoleVueServer.csproj.CoreCompileInputs.cache
+E:\Work\CodeDevelop\.NetProject\Sdp Service\ConsoleVueServer\obj\Debug\ConsoleVueServer.csproj.CopyComplete
+E:\Work\CodeDevelop\.NetProject\Sdp Service\ConsoleVueServer\obj\Debug\ConsoleVueServer.exe
+E:\Work\CodeDevelop\.NetProject\Sdp Service\ConsoleVueServer\obj\Debug\ConsoleVueServer.pdb
+E:\CodeDevelop\Git\Net\XStomp\ConsoleVueServer\bin\Debug\ConsoleVueServer.exe
+E:\CodeDevelop\Git\Net\XStomp\ConsoleVueServer\bin\Debug\ConsoleVueServer.pdb
+E:\CodeDevelop\Git\Net\XStomp\ConsoleVueServer\bin\Debug\XStomp.dll
+E:\CodeDevelop\Git\Net\XStomp\ConsoleVueServer\bin\Debug\XStomp.pdb
+E:\CodeDevelop\Git\Net\XStomp\ConsoleVueServer\obj\Debug\ConsoleVueServer.csprojAssemblyReference.cache
+E:\CodeDevelop\Git\Net\XStomp\ConsoleVueServer\obj\Debug\ConsoleVueServer.csproj.CoreCompileInputs.cache
+E:\CodeDevelop\Git\Net\XStomp\ConsoleVueServer\obj\Debug\ConsoleVueServer.csproj.CopyComplete
+E:\CodeDevelop\Git\Net\XStomp\ConsoleVueServer\obj\Debug\ConsoleVueServer.exe
+E:\CodeDevelop\Git\Net\XStomp\ConsoleVueServer\obj\Debug\ConsoleVueServer.pdb

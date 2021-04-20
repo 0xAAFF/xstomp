@@ -1,4 +1,8 @@
-﻿/*******************************************************************************
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+/*******************************************************************************
  * https://github.com/krlito/StompNet/blob/master/StompNet
  *
  *  Copyright (c) 2014 Carlos Campo <carlos@campo.com.co>
@@ -16,11 +20,6 @@
  *  limitations under the License.
  * 
  *******************************************************************************/
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
 namespace XStomp
 {
     /// <summary>

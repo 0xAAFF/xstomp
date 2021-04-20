@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9F136F9E-C1BE-427E-B3B5-0E5931B99174}</ProjectGuid>
+    <ProjectGuid>{8639EF9D-20C2-44EE-86DB-4F13773761E6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>XStomp</RootNamespace>

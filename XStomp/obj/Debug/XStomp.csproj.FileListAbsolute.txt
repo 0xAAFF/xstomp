@@ -1,0 +1,15 @@
+E:\Work\CodeDevelop\Sdp Service\XStomp\bin\Debug\XStomp.dll
+E:\Work\CodeDevelop\Sdp Service\XStomp\bin\Debug\XStomp.pdb
+E:\Work\CodeDevelop\Sdp Service\XStomp\obj\Debug\XStomp.csproj.CoreCompileInputs.cache
+E:\Work\CodeDevelop\Sdp Service\XStomp\obj\Debug\XStomp.dll
+E:\Work\CodeDevelop\Sdp Service\XStomp\obj\Debug\XStomp.pdb
+E:\Work\CodeDevelop\.NetProject\Sdp Service\XStomp\bin\Debug\XStomp.dll
+E:\Work\CodeDevelop\.NetProject\Sdp Service\XStomp\bin\Debug\XStomp.pdb
+E:\Work\CodeDevelop\.NetProject\Sdp Service\XStomp\obj\Debug\XStomp.csproj.CoreCompileInputs.cache
+E:\Work\CodeDevelop\.NetProject\Sdp Service\XStomp\obj\Debug\XStomp.dll
+E:\Work\CodeDevelop\.NetProject\Sdp Service\XStomp\obj\Debug\XStomp.pdb
+E:\CodeDevelop\Git\Net\XStomp\XStomp\bin\Debug\XStomp.dll
+E:\CodeDevelop\Git\Net\XStomp\XStomp\bin\Debug\XStomp.pdb
+E:\CodeDevelop\Git\Net\XStomp\XStomp\obj\Debug\XStomp.csproj.CoreCompileInputs.cache
+E:\CodeDevelop\Git\Net\XStomp\XStomp\obj\Debug\XStomp.dll
+E:\CodeDevelop\Git\Net\XStomp\XStomp\obj\Debug\XStomp.pdb

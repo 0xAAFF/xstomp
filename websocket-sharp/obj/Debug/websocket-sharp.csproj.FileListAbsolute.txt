@@ -1,0 +1,10 @@
+E:\Work\CodeDevelop\SDP_Websocket\Sdp\websocket-sharp\bin\Debug\websocket-sharp.dll
+E:\Work\CodeDevelop\SDP_Websocket\Sdp\websocket-sharp\bin\Debug\websocket-sharp.pdb
+E:\Work\CodeDevelop\SDP_Websocket\Sdp\websocket-sharp\obj\Debug\websocket-sharp.csproj.CoreCompileInputs.cache
+E:\Work\CodeDevelop\SDP_Websocket\Sdp\websocket-sharp\obj\Debug\websocket-sharp.dll
+E:\Work\CodeDevelop\SDP_Websocket\Sdp\websocket-sharp\obj\Debug\websocket-sharp.pdb
+E:\Work\CodeDevelop\Sdp Service\websocket-sharp\bin\Debug\websocket-sharp.dll
+E:\Work\CodeDevelop\Sdp Service\websocket-sharp\bin\Debug\websocket-sharp.pdb
+E:\Work\CodeDevelop\Sdp Service\websocket-sharp\obj\Debug\websocket-sharp.csproj.CoreCompileInputs.cache
+E:\Work\CodeDevelop\Sdp Service\websocket-sharp\obj\Debug\websocket-sharp.dll
+E:\Work\CodeDevelop\Sdp Service\websocket-sharp\obj\Debug\websocket-sharp.pdb
